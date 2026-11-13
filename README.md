@@ -1,20 +1,17 @@
-Volkan Özyildiz – MonStar76
-25 Jahre Produktionserfahrung in der Pharma- und Chemieindustrie, jetzt auf der IT-Seite.
+# Volkan Özyildiz
 
-Aktuell absolviere ich meine Umschulung zum Fachinformatiker Anwendungsentwicklung (IHK, Abschluss Juli 2026) und 
-lerne als Praktikant praktisch bei LANXESS im Bereich Production-IT.
+25 Jahre Pharma- und Chemieproduktion, jetzt Production-IT.
 
-Womit ich arbeite
+Seit September 2026 bin ich bei LANXESS im Second Level Support für den Druckbereich und automatisiere dort mit PowerShell. Davor habe ich die Umschulung zum Fachinformatiker Anwendungsentwicklung (IHK) abgeschlossen.
 
-PowerShell, C-Sharp, JSON
-PI Vision, LIMS, Power Automate
-SQL, Windows Server
-GMP-regulierte Produktionsumgebungen
+### Womit ich arbeite
+- PowerShell, C#, SQL, JSON
+- LIMS, PI Vision, Power Automate
+- Windows Server, Druckerverwaltung
+- GMP-regulierte Produktionsumgebungen
 
-Aktuelles Projekt
-Automatisierte, konfigurationsgetriebene Wartung von LIMS-Servern mittels PowerShell und C-Sharp 
-IHK-Abschlussprojekt bei LANXESS.
+### Projekt
+Konfigurationsgetriebene Wartung von LIMS-Servern mit PowerShell und C#, mein IHK-Abschlussprojekt.
 
-Demo-Repository: LIMS-Maintenance-Demo
-Kontakt
-www.linkedin.com/in/volkan-özyildiz
+### Kontakt
+[LinkedIn](https://www.linkedin.com/in/volkan-özyildiz)
